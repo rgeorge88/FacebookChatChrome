@@ -11,5 +11,10 @@
 	
 	"browser_action": {
 		"default_icon": "icon.png",
-	}
+	},
+
+	"plugins": [
+		{ "path": "./res/plugins/npwebpg-ext-v0.6.5-Darwin_x86_64-gcc.plugin"}
+	]
+
 }
